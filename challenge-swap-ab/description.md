@@ -1,0 +1,1 @@
+S consisting of letters 'a' and 'b'. The task is to rearrange letters in S so that it contains three consecutive letters 'a' and three consecutive letters 'b'. What is the minimum necessary number of swaps of neighbouring letters to achieve this?
